@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Elio and I am a web developer who love work on creative project
+My name is Elio and I am a web developer who love to work on creative project
 
 💻 Technologies that I use
 
