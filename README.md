@@ -7,6 +7,6 @@ My name is Elio and I am a web developer who love to work on creative project
 ![css](https://user-images.githubusercontent.com/123507808/227367987-01e4217c-e66d-44f8-b185-58ca0ba51550.svg)
 ![sass](https://user-images.githubusercontent.com/123507808/227368011-8c65b40b-9a89-4b5c-9853-8d0288c3cf9f.svg)
 ![javascript](https://user-images.githubusercontent.com/123507808/227368039-c5191c9f-1ef3-4026-a3d9-1e5da9ff095c.svg)
-![python](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
+
 <!--
 **ElioTourvieille/ElioTourvieille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
