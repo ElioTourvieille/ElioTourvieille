@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **innovative Projects.**
 
-- 👨‍💻 My portfolio is available at [Portfolio](https://port-folio-next-tourvieilles-projects.vercel.app/)
+- 👨‍💻 My portfolio is available at [EricTourvieille - Portfolio](https://port-folio-next-tourvieilles-projects.vercel.app/)
 
 - 💬 Ask me about **React,Javascript, Next.**
 
