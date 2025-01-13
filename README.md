@@ -3,7 +3,7 @@
 <h3 align="center">Buidling things for web | A passionate full stack developer</h3>
 
 
-- 🔭 2024 Goal **Build more projects in Web3 Space**
+- 🔭 2025 Goal **Build more projects in Web3 Space**
 
 - 🌱 I’m currently learning **to integrate AI into applications.**
 
