@@ -3,15 +3,15 @@
 <h3 align="center">Buidling things for web | A passionate full stack developer</h3>
 
 
-- 🔭 2025 Goal **Build more projects in Web3 Space**
+- 🔭 2026 Goal **Build more projects in Web3 Space**
 
 - 🌱 I’m currently learning **to integrate AI into applications.**
 
 - 👯 I’m looking to collaborate on **innovative Projects.**
 
-- 👨‍💻 My portfolio is available at [EricTourvieille - Portfolio](https://erict-dev.vercel.app/)
+- 👨‍💻 My portfolio is available at [EricTourvieille - Portfolio](https://etourvieille.dev/)
 
-- 💬 Ask me about **React,Javascript, Next.**
+- 💬 Ask me about **React,Javascript, Next, Nest**
 
 - 📫 How to reach me **e.tourvieille@gmail.com.**
 
